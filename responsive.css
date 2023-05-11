@@ -1,0 +1,40 @@
+@media (max-width:768px){
+   /*== banner-sec==*/
+   .header-sec{
+	   padding:300px 0;
+   }
+    .header-title h1{
+		font-size:27px;
+		 
+	}
+    .header-title p{
+		font-size:17px;
+	}
+   /*===client-sec===*/
+  .clients-1{
+	  padding:10px 10px;
+  }
+  
+  /*==display-sec==*/
+   .abt-tab .nav-item .nav-link i{
+	   font-size:20px;
+   }
+  /*===contact-sec===*/
+  .form input:focus{
+	  border:solid 1px #000;
+  }
+  
+    .form textarea:focus{
+	  border:solid 1px #000;
+  }
+  .form-controal1{
+		width:98%;
+  }
+ 
+  /*===footer-sec===*/
+   .finish-2 i{
+	   margin-top:5px;
+   }
+  
+  
+}
